@@ -13,7 +13,7 @@
 * ****Strict Balance Validation System:**** Before executing withdrawals, the contract verifies that it holds enough ETH to fulfill the request. If the balance is insufficient, the transaction is reverted with a custom error. This prevents overdrafts and ensures safe fund accounting.
 * ****Zero Address Validation Safety Layer:**** Prevents assignment of invalid addresses (`address(0)`) in sensitive functions such as permission and allowance updates. This avoids accidental fund locking or misconfiguration caused by invalid Ethereum addresses.
 * ****Secure Low-Level ETH Transfers:**** Uses low-level `.call{value: amount}("")` for ETH transfers instead of deprecated `transfer()` or `send()`. This ensures compatibility with contracts requiring higher gas limits while still validating transfer success explicitly.
-* ****Custom Error Optimization System:**** Replaces traditional `require()`
+* ****Custom Error Optimization System:**** Replaces traditional `require()` strings with custom Solidity errors
 
 
 
