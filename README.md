@@ -12,6 +12,7 @@
 * ****Reentrancy Attack Protection:**** Uses OpenZeppelin’s `ReentrancyGuard` to prevent recursive withdrawal attacks. The `nonReentrant` modifier ensures that no nested withdrawal calls can occur during an active transaction, protecting user funds from exploitation via malicious fallback contracts.
 * ****Strict Balance Validation System:**** Before executing withdrawals, the contract verifies that it holds enough ETH to fulfill the request. If the balance is insufficient, the transaction is reverted with a custom error. This prevents overdrafts and ensures safe fund accounting.
 * ****Zero Address Validation Safety Layer:**** Prevents assignment of invalid addresses (`address(0)`) in sensitive functions such as permission and allowance updates. This avoids accidental fund locking or misconfiguration caused by invalid Ethereum addresses.
+* ****Secure Low-Level ETH Transfers:****
 
 
   
