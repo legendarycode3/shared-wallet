@@ -2,7 +2,7 @@
 
 
 ## 📌 Features
-* ****Multi-Owner / Admin-Controlled Wallet Structure:****
+* ****Multi-Owner / Admin-Controlled Wallet Structure:**** Defines a single immutable
  
 ## Foundry
 
