@@ -8,7 +8,7 @@
 * ****Automatic ETH Reception Handling:**** Uses Solidity’s `receive()` and `fallback()` functions to automatically accept ETH transfers without requiring function calls. This ensures compatibility with wallets, exchanges, and external contracts that send ETH directly to the contract address. 
 * ****Event-Based Transaction Transparency:**** Implements event logging for all major state changes: (i) `Deposit` emitted when ETH is received. (ii) `Withdrawal` emitted when funds are sent out. (iii) `AddressPermitted` emitted when user permissions are updated. (iv) `AllowanceUpdated` emitted when spending limits change. It Provides full on-chain traceability for frontends and analytics tools.
 * ****Per-User Allowance / Spending Limit System**** Introduces a custom allowance model using `allowance` mapping. Each permitted user has a predefined withdrawal limit that restricts how much they can withdraw from the contract. This adds a budgeting layer on top of permission control, preventing unlimited fund access even for authorized users.
-* ****Controlled Withdrawal Mechanism:**** Implements a secure withdrawal
+* ****Controlled Withdrawal Mechanism:**** Implements a secure withdrawal system that enforces multiple checks:
   
 ## Foundry
 
