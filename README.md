@@ -9,7 +9,7 @@
 * ****Event-Based Transaction Transparency:**** Implements event logging for all major state changes: (i) `Deposit` emitted when ETH is received. (ii) `Withdrawal` emitted when funds are sent out. (iii) `AddressPermitted` emitted when user permissions are updated. (iv) `AllowanceUpdated` emitted when spending limits change. It Provides full on-chain traceability for frontends and analytics tools.
 * ****Per-User Allowance / Spending Limit System**** Introduces a custom allowance model using `allowance` mapping. Each permitted user has a predefined withdrawal limit that restricts how much they can withdraw from the contract. This adds a budgeting layer on top of permission control, preventing unlimited fund access even for authorized users.
 * ****Controlled Withdrawal Mechanism:**** Implements a secure withdrawal system that enforces multiple checks: (i) User must be marked as permitted.  (ii) Contract must have sufficient ETH balance.  (iii) User must not exceed their allowance.  Allowance is reduced before transfer execution to prevent reentrancy exploits. Ensures funds are only released under strict validation rules.
-* ****Reentrancy Attack Protection:**** Uses OpenZeppelin’s `ReentrancyGuard` to prevent recursive withdrawal attacks.
+* ****Reentrancy Attack Protection:**** Uses OpenZeppelin’s `ReentrancyGuard` to prevent recursive withdrawal attacks. The nonReentrant
 
 
 
