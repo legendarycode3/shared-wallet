@@ -2,7 +2,7 @@
 
 
 ## 📌 Features
-* ****Multi-Owner /:****
+* ****Multi-Owner / Admin-Controlled Wallet Structure:****
  
 ## Foundry
 
