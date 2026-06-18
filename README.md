@@ -16,7 +16,7 @@
 * ****Custom Error Optimization System:**** Replaces traditional `require()` strings with custom Solidity errors for gas efficiency and clarity. Reduces gas costs and improves debugging precision.
 * ****Contract Balance Query System:**** Provides a read-only function `getBalance()` to retrieve the total ETH held by the contract. Enables external applications, dashboards, and users to monitor wallet liquidity without modifying state.
 * ****Transparent Administrative Control System:**** All administrative actions (permissions and allowances) emit events, ensuring that changes to user rights and spending limits are fully observable on-chain.
-* ****Secure State Mutation Ordering:****
+* ****Secure State Mutation Ordering(Anti-Reentrancy Design Pattern):****
 
 
   
