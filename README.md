@@ -64,7 +64,6 @@ $ forge snapshot
 
 
 ## Author
-Part of my  `60 Days of Solidity Challenge
-
 Built with ❤️ by [@legendarycode3](https://github.com/legendarycode3/)  </br>
 
+## Appreciation
