@@ -57,11 +57,12 @@ $ forge test
 ```shell
 $ forge fmt
 ```
+### Gas Snapshots
 
 
 ## Author
-### Gas Snapshots
 
+Built with ❤️ by [@legendarycode3](https://github.com/legendarycode3/)  </br>
 ```shell
 $ forge snapshot
 ```
