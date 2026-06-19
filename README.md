@@ -67,3 +67,4 @@ $ forge snapshot
 Built with ❤️ by [@legendarycode3](https://github.com/legendarycode3/)  </br>
 
 ## Appreciation
+If you find this project helpful, please consider linking back to this repository. I `appreciate` your support.
