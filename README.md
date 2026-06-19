@@ -24,6 +24,9 @@
 
 ## 📂 Project Structure (Files)
 
+
+## 🌐Technology Stack (Technologies Used)
+
   
 ## Foundry
 
