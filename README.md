@@ -19,7 +19,10 @@
 * ****Secure State Mutation Ordering(Anti-Reentrancy Design Pattern):**** Follows the “checks-effects-interactions” pattern: (i) Validate permissions and balances.  (ii) Deduct allowance (state change first).  (iii) Execute external ETH transfer. Utilized the pattern to  Reduces attack surface for reentrancy and inconsistent state updates.
 
 
-🧠 Key Concepts Applied
+## 🧠 Key Concepts Applied
+
+
+## 📂 Project Structure (Files)
 
   
 ## Foundry
