@@ -37,19 +37,20 @@
 * ****Constructor:**** The constructor , sets the owner, grants initial permission to the deployer.
 * ****View Functions:**** Implemented a read-only function for `getBalance` function. It does not modify state, and costs no gas when called off-chain.
 * ****Defensive Programming(Validation):**** The contract validates inputs and state before execution for `Zero address checks`, `Balance checks`, `Allowance checks`.
-* ****Permitted Modifier:**** Ensures only approved users can withdraw.
-
+* ****Permitted Modifier:**** Ensures only approved users can withdraw. 
 
 
 
 ## 📂 Project Structure (Files)
 
 
+
 ## 🌐Technology Stack (Technologies Used)
 
 
+
 ## Why This Matters (Shared Wallet Smart Contract)
-* ****Eliminates Single Points of Failure:**** In a traditional wallet,
+* ****Eliminates Single Points of Failure:**** In a traditional wallet, a single private key controls all funds.
 
 
 
