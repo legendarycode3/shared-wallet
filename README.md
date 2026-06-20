@@ -64,7 +64,7 @@
 * ****Creates an Immutable Audit Trail:****
 * ****Enables Shared Ownership of Assets:****
 * ****Reduces Human Error:****
-* ****Serves as a Foundation for Advanced Treasury Systems:****  A Shared Wallet is often the first step toward more sophisticated treasury management solutions. Features such as multi-signature approvals, DAO voting, time-locked withdrawals, , automated payroll,
+* ****Serves as a Foundation for Advanced Treasury Systems:****  A Shared Wallet is often the first step toward more sophisticated treasury management solutions. Features such as multi-signature approvals, DAO voting, time-locked withdrawals, , automated payroll, recurring payments,
 * ****Increases Accountability Among Team Members:****  When every transaction is visible and attributable to a specific address, participants become more accountable for their actions. Users know that all withdrawals and treasury interactions are permanently recorded, encouraging responsible financial behavior and discouraging misuse of funds.
 * ****Enables Decentralized Financial Coordination:**** A Shared Wallet allows geographically distributed teams to coordinate financial activities without relying on traditional banks or centralized financial institutions. Team members can contribute, manage, and access funds from anywhere in the world while operating under the same transparent set of blockchain-enforced rules.
   
