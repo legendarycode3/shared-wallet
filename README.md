@@ -34,7 +34,7 @@
 * ****Checks-Effects-Interactions Pattern:**** Implemented on the contract functions, one of which is the `withdrawal` function. The pattern helps reduces reentrancy risk.
 * ****Low-Level Calls:**** Ether transfers are performed .
 * ****Constructor:**** The constructor , sets the owner, grants initial permission to the deployer.
-* ****View Functions:**** Implemented a read-only function
+* ****View Functions:**** Implemented a read-only function for `getBalance` function
 
 
 
