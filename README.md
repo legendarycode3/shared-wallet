@@ -66,7 +66,7 @@
 * ****Reduces Human Error:****
 * ****Serves as a Foundation for Advanced Treasury Systems:****
 * ****Increases Accountability Among Team Members:**** 
-* ****Enables Decentralized Financial Coordination:**** A Shared Wallet allows
+* ****Enables Decentralized Financial Coordination:**** A Shared Wallet allows geographically distributed teams to
   
 
 
