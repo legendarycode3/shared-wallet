@@ -56,7 +56,7 @@
 * ****Reduces Insider Threats:**** One of the greatest risks to organizational funds comes from trusted insiders. Employees, partners, or managers with unrestricted access can intentionally or accidentally misuse funds. A Shared Wallet minimizes this risk by restricting access and limiting withdrawal amounts. Even if an authorized account is compromised or behaves maliciously, the potential damage is constrained by the permissions and allowances assigned to that account.
 * ****Replaces Trust with Verifiable Rules:**** Traditional financial systems often depend on trusting individuals to follow policies and procedures. A Shared Wallet replaces human promises with executable code. The rules governing who can withdraw funds, how much they can withdraw, and under what circumstances are transparently encoded in the smart contract and enforced by the blockchain.
 * ****Creates Transparent Financial Operations:**** Every deposit, withdrawal, permission update, and allowance adjustment can be permanently recorded on-chain through events and transaction history. This creates a transparent and immutable audit trail that stakeholders can verify independently.
-* ****Supports Organizational Growth:**** As organizations expand, financial responsibilities become more complex. What works for a single founder becomes inefficient when multiple departments, managers, contractors, and
+* ****Supports Organizational Growth:**** As organizations expand, financial responsibilities become more complex. What works for a single founder becomes inefficient when multiple departments, managers, contractors, and stakeholders need access to
 
 * ****Prevents Unauthorized Withdrawals:****
   
