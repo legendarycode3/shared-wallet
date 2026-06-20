@@ -47,6 +47,9 @@
 
 ## 🌐Technology Stack (Technologies Used)
 
+
+## Why This Matters (Shared Wallet Smart Contract)
+
   
 ## Foundry
 
