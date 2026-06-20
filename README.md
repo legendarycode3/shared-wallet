@@ -24,6 +24,7 @@
 * ****Role-Based Permissions:**** Implements a permission system using a mapping. Only permitted addresses can withdraw funds. Permissions can be granted or revoked dynamically.
 * ****Custom Modifiers:**** Uses modifiers to avoid code repetition. It Enforces authorization before function execution.
 * ****State Variables:**** Stores persistent blockchain data: `Owner address`, `Permission records`, `User allowances`.
+* ****Immutable Variables:****
 
 
 
