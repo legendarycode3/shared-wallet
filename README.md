@@ -50,7 +50,7 @@
 
 
 ## Why This Matters (Shared Wallet Smart Contract)
-* ****Eliminates Single Points of Failure:**** In a traditional wallet, a single private key controls all funds. If that key is lost, stolen, forgotten, or compromised,
+* ****Eliminates Single Points of Failure:**** In a traditional wallet, a single private key controls all funds. If that key is lost, stolen, forgotten, or compromised, the assets are at risk.
 
 
 
