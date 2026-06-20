@@ -52,7 +52,7 @@
 ## Why This Matters (Shared Wallet Smart Contract)
 * ****Eliminates Single Points of Failure:**** In a traditional wallet, a single private key controls all funds. If that key is lost, stolen, forgotten, or compromised, the assets are at risk. A Shared Wallet distributes operational authority across multiple authorized participants. Even if one participant loses access to their wallet or becomes unavailable, the treasury can continue functioning through other authorized members, reducing dependence on a single individual.
 * ****Enables Collaborative Fund Management:**** Most organizations are not run by one person. Businesses, DAOs, nonprofits, project teams, and investment groups often need multiple people to interact with shared funds. A Shared Wallet allows several participants to contribute to and manage a common treasury while maintaining clear rules about who can spend funds and under what conditions.
-* ****Enforces Spending Limits Automatically:**** In a traditional setup, managers may have access to company funds with only policy documents restricting their spending. A Shared Wallet can enforce spending limits directly in code through allowances. Instead of relying on trust or manual oversight, the blockchain automatically prevents a user from spending more than
+* ****Enforces Spending Limits Automatically:**** In a traditional setup, managers may have access to company funds with only policy documents restricting their spending. A Shared Wallet can enforce spending limits directly in code through allowances. Instead of relying on trust or manual oversight, the blockchain automatically prevents a user from spending more than their authorized amount.
 
 
 
