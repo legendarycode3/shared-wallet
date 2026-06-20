@@ -59,7 +59,7 @@
 * ****Supports Organizational Growth:**** As organizations expand, financial responsibilities become more complex. What works for a single founder becomes inefficient when multiple departments, managers, contractors, and stakeholders need access to funds. A Shared Wallet scales naturally by allowing permissions and spending limits to be assigned to different participants based on their roles and responsibilities.
 * ****Prevents Unauthorized Withdrawals:**** Unlike a standard wallet where possession of the private key grants complete control, a Shared Wallet introduces authorization checks before funds can be moved. Users must satisfy the contract's permission requirements before any withdrawal is executed. Unauthorized accounts are automatically rejected by the contract regardless of their intentions.
 * ****Provides Continuous Access to Treasury Funds:**** Traditional financial systems often depend on banking hours, approval chains, or specific personnel being available. A Shared Wallet operates 24/7 on the blockchain. Authorized users can interact with the treasury whenever necessary, enabling faster operations and reducing delays caused by administrative bottlenecks.
-* ****Creates Built-In Budget Controls:****
+* ****Creates Built-In Budget Controls:**** Organizations frequently establish
   
 
 
