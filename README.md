@@ -24,7 +24,7 @@
 * ****Role-Based Permissions:**** Implements a permission system using a mapping. Only permitted addresses can withdraw funds. Permissions can be granted or revoked dynamically.
 * ****Custom Modifiers:**** Uses modifiers to avoid code repetition. It Enforces authorization before function execution.
 * ****State Variables:**** Stores persistent blockchain data: `Owner address`, `Permission records`, `User allowances`.
-* ****Immutable Variables:**** The owner is declared as `immutable` value. It is Gas-efficient because
+* ****Immutable Variables:**** The owner is declared as `immutable` value. It is Gas-efficient and used because it is set once during deployment
 
 
 ## 📂 Project Structure (Files)
