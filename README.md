@@ -25,7 +25,7 @@
 * ****Custom Modifiers:**** Uses modifiers to avoid code repetition. It Enforces authorization before function execution.
 * ****State Variables:**** Stores persistent blockchain data: `Owner address`, `Permission records`, `User allowances`.
 * ****Immutable Variables:**** The owner is declared as `immutable` value. It is Gas-efficient and used because it is set once during deployment and never changes.
-* ****Mappings:**** Uses mappings for
+* ****Mappings:**** Uses mappings for efficient key-value storage
 
 
 ## 📂 Project Structure (Files)
