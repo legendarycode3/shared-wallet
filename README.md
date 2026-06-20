@@ -20,7 +20,7 @@
 
 
 ## 🧠 Key Concepts Applied
-* ****Ownership & Access Control:**** Uses an `owner-based authorization` model. The deployer is stored
+* ****Ownership & Access Control:**** Uses an `owner-based authorization` model. The deployer is stored as an immutable owner
 
 
 ## 📂 Project Structure (Files)
