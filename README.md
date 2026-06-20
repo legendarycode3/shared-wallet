@@ -20,7 +20,7 @@
 
 
 ## 🧠 Key Concepts Applied
-* ****Ownership & Access Control:**** Uses an owner-based
+* ****Ownership & Access Control:**** Uses an `owner-based authorization` model.
 
 
 ## 📂 Project Structure (Files)
