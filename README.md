@@ -66,7 +66,7 @@
 * ****Reduces Human Error:****
 * ****Serves as a Foundation for Advanced Treasury Systems:****
 * ****Increases Accountability Among Team Members:**** 
-* ****Enables Decentralized Financial Coordination:**** A Shared Wallet allows geographically distributed teams to coordinate financial activities without relying on traditional banks or centralized financial institutions. Team members can contribute, manage, and access funds from anywhere in the world while operating under
+* ****Enables Decentralized Financial Coordination:**** A Shared Wallet allows geographically distributed teams to coordinate financial activities without relying on traditional banks or centralized financial institutions. Team members can contribute, manage, and access funds from anywhere in the world while operating under the same transparent set of blockchain-enforced rules.
   
 
 
