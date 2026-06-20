@@ -54,7 +54,7 @@
 * ****Enables Collaborative Fund Management:**** Most organizations are not run by one person. Businesses, DAOs, nonprofits, project teams, and investment groups often need multiple people to interact with shared funds. A Shared Wallet allows several participants to contribute to and manage a common treasury while maintaining clear rules about who can spend funds and under what conditions.
 * ****Enforces Spending Limits Automatically:**** In a traditional setup, managers may have access to company funds with only policy documents restricting their spending. A Shared Wallet can enforce spending limits directly in code through allowances. Instead of relying on trust or manual oversight, the blockchain automatically prevents a user from spending more than their authorized amount.
 * ****Reduces Insider Threats:**** One of the greatest risks to organizational funds comes from trusted insiders. Employees, partners, or managers with unrestricted access can intentionally or accidentally misuse funds. A Shared Wallet minimizes this risk by restricting access and limiting withdrawal amounts. Even if an authorized account is compromised or behaves maliciously, the potential damage is constrained by the permissions and allowances assigned to that account.
-* ****Replaces Trust with Verifiable Rules:**** Traditional financial systems often depend on trusting individuals to follow policies and procedures. A Shared Wallet replaces human promises with executable code.
+* ****Replaces Trust with Verifiable Rules:**** Traditional financial systems often depend on trusting individuals to follow policies and procedures. A Shared Wallet replaces human promises with executable code. The rules governing who can withdraw funds,
 
 
 
