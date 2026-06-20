@@ -49,7 +49,7 @@
 
 
 ## Why This Matters (Shared Wallet Smart Contract)
-* ****Eliminates Single Points of Failure:****
+* ****Eliminates Single Points of Failure:**** In a traditional wallet,
 
 
 
