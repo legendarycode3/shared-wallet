@@ -57,7 +57,7 @@
 * ****Replaces Trust with Verifiable Rules:**** Traditional financial systems often depend on trusting individuals to follow policies and procedures. A Shared Wallet replaces human promises with executable code. The rules governing who can withdraw funds, how much they can withdraw, and under what circumstances are transparently encoded in the smart contract and enforced by the blockchain.
 * ****Creates Transparent Financial Operations:**** Every deposit, withdrawal, permission update, and allowance adjustment can be permanently recorded on-chain through events and transaction history. This creates a transparent and immutable audit trail that stakeholders can verify independently.
 * ****Supports Organizational Growth:**** As organizations expand, financial responsibilities become more complex. What works for a single founder becomes inefficient when multiple departments, managers, contractors, and stakeholders need access to funds. A Shared Wallet scales naturally by allowing permissions and spending limits to be assigned to different participants based on their roles and responsibilities.
-* ****Prevents Unauthorized Withdrawals:**** Unlike a standard wallet where possession of the private key grants complete control, a Shared Wallet introduces authorization checks before funds can be moved. Users must satisfy the contract's permission
+* ****Prevents Unauthorized Withdrawals:**** Unlike a standard wallet where possession of the private key grants complete control, a Shared Wallet introduces authorization checks before funds can be moved. Users must satisfy the contract's permission requirements before any withdrawal is executed.
   
 
 
