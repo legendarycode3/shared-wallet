@@ -20,6 +20,7 @@
 
 
 ## 🧠 Key Concepts Applied
+* ****Ownership &*****
 
 
 ## 📂 Project Structure (Files)
