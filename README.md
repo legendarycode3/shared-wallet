@@ -23,7 +23,7 @@
 * ****Ownership & Access Control:**** Uses an `owner-based authorization` model. The deployer is stored as an immutable owner.
 * ****Role-Based Permissions:**** Implements a permission system using a mapping. Only permitted addresses can withdraw funds. Permissions can be granted or revoked dynamically.
 * ****Custom Modifiers:**** Uses modifiers to avoid code repetition. It Enforces authorization before function execution.
-* ****State Variables:**** Stores persistent blockchain data:
+* ****State Variables:**** Stores persistent blockchain data: `Owner address`,
 
 
 
