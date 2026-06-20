@@ -29,7 +29,7 @@
 * ****Allowance-Based Spending Model:**** Similar to the allowance concept in ERC-20 tokens. Users can only withdraw up to their assigned allowance.
 * ****Ether Handling:**** The contract accepts Ether through: (i) Deposit Function. (ii) Receive Function. (iii) Fallback Function. This allows Ether deposits through `Direct transfers`, `Explicit deposit calls`, `Unknown function calls with ETH attached`.
 * ****Events for Logging:**** Events provide an on-chain audit trail. Implemented for Transaction tracking, Gas-efficient record keeping.
-* ****Custom Errors:**** Uses Solidity custom errors instead of revert strings. For the benefit of 
+* ****Custom Errors:**** Uses Solidity custom errors instead of revert strings. For the benefit of Lower gas costs,
 
 
 ## 📂 Project Structure (Files)
