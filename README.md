@@ -27,7 +27,7 @@
 * ****Immutable Variables:**** The owner is declared as `immutable` value. It is Gas-efficient and used because it is set once during deployment and never changes.
 * ****Mappings:**** Uses mappings for efficient key-value storage. Provides O(1) lookups for permissions and allowances.
 * ****Allowance-Based Spending Model:**** Similar to the allowance concept in ERC-20 tokens. Users can only withdraw up to their assigned allowance.
-* ****Ether Handling:**** The contract accepts Ether through: (i) Deposit Function. (ii) Receive Function. (iii) Fallback Function. This allows Ether deposits through `Direct transfers`, `Explicit deposit calls`, `Unknown function calls`.
+* ****Ether Handling:**** The contract accepts Ether through: (i) Deposit Function. (ii) Receive Function. (iii) Fallback Function. This allows Ether deposits through `Direct transfers`, `Explicit deposit calls`, `Unknown function calls with ETH attached`.
 
 
 ## 📂 Project Structure (Files)
