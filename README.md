@@ -61,6 +61,7 @@
 * ****Provides Continuous Access to Treasury Funds:**** Traditional financial systems often depend on banking hours, approval chains, or specific personnel being available. A Shared Wallet operates 24/7 on the blockchain. Authorized users can interact with the treasury whenever necessary, enabling faster operations and reducing delays caused by administrative bottlenecks.
 * ****Creates Built-In Budget Controls:**** Organizations frequently establish budgets but struggle to enforce them consistently. A Shared Wallet can encode those budgets directly into the treasury system.
 * ****Improves Security Through Least-Privilege Access:****
+* ****Creates an Immutable Audit Trail:****
   
 
 
