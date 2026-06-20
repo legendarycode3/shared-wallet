@@ -35,7 +35,8 @@
 * ****Low-Level Calls:**** Ether transfers are performed .
 * ****Constructor:**** The constructor , sets the owner, grants initial permission to the deployer.
 * ****View Functions:**** Implemented a read-only function for `getBalance` function. It does not modify state, and costs no gas when called off-chain.
-* ****Defensive Programming(Validation):**** The contract validates inputs and state before execution for `Zero address checks`, `Balance checks`, `Allowance checks`,  
+* ****Defensive Programming(Validation):**** The contract validates inputs and state before execution for `Zero address checks`, `Balance checks`, `Allowance checks`.
+* ****Permitted Modifier:****
 
 
 
