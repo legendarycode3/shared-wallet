@@ -95,6 +95,7 @@
 * ****Reduces Reliance on Trusted Third Parties:****
 * ****Facilitates Global Collaboration Without Borders:****
 * ****Increases Investor and Community Confidence:****
+* ****Creates a Verifiable Source of Financial Truth:****
     
 
   
