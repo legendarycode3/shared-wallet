@@ -88,7 +88,7 @@
 * ****Strengthens Trust Among Stakeholders:**** Trust is often a major challenge when multiple parties manage shared funds. A Shared Wallet replaces trust in individuals with trust in transparent smart contract rules. Participants can verify wallet balances, transaction history, and governance requirements directly on-chain, reducing the need for intermediaries and increasing confidence in treasury operations.
 * ****Simplifies DAO Treasury Management:**** For decentralized organizations, Shared Wallets serve as the backbone of treasury management. Community funds can be secured, governed, and distributed according to predefined rules that align with DAO governance mechanisms. This ensures that treasury decisions are executed transparently and in accordance with community-approved proposals.
 * ****Supports Role-Based Access Control:**** A Shared Wallet can assign different responsibilities to different participants. For example, some members may have proposal creation rights, others may act as approvers, while administrators manage membership and permissions. This separation of duties improves operational efficiency and reduces security risks associated with excessive privileges.
-* ****Improves Operational Continuity:**** Organizations often face disruptions when key personnel leave, become unavailable,
+* ****Improves Operational Continuity:**** Organizations often face disruptions when key personnel leave, become unavailable, or lose access credentials.
 * ****Enables Scalable Financial Governance:****
     
 
