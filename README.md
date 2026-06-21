@@ -87,7 +87,7 @@
 * ****Enables Automated Treasury Operations:**** Smart contract logic can automate treasury management processes that would otherwise require manual oversight. Examples include recurring payments, contributor rewards, salary distributions, grant funding, profit sharing, subscription payments, and milestone-based disbursements. Automation improves efficiency while reducing administrative workload and human error.
 * ****Strengthens Trust Among Stakeholders:**** Trust is often a major challenge when multiple parties manage shared funds. A Shared Wallet replaces trust in individuals with trust in transparent smart contract rules. Participants can verify wallet balances, transaction history, and governance requirements directly on-chain, reducing the need for intermediaries and increasing confidence in treasury operations.
 * ****Simplifies DAO Treasury Management:**** For decentralized organizations, Shared Wallets serve as the backbone of treasury management. Community funds can be secured, governed, and distributed according to predefined rules that align with DAO governance mechanisms. This ensures that treasury decisions are executed transparently and in accordance with community-approved proposals.
-* ****Supports Role-Based Access Control:**** A Shared Wallet can assign different responsibilities to different participants. For example, some members
+* ****Supports Role-Based Access Control:**** A Shared Wallet can assign different responsibilities to different participants. For example, some members may have proposal creation rights,
     
 
   
