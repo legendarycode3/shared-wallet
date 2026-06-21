@@ -95,7 +95,7 @@
 * ****Reduces Reliance on Trusted Third Parties:****
 * ****Facilitates Global Collaboration Without Borders:****
 * ****Increases Investor and Community Confidence:****
-* ****Creates a Verifiable Source of Financial Truth:**** A Shared Wallet acts as a single, authoritative source of treasury information.
+* ****Creates a Verifiable Source of Financial Truth:**** A Shared Wallet acts as a single, authoritative source of treasury information. Since balances,
     
 
   
