@@ -94,6 +94,7 @@
 * ****Enables Programmable Financial Policies:****
 * ****Reduces Reliance on Trusted Third Parties:****
 * ****Facilitates Global Collaboration Without Borders:****
+* ****Increases Investor and Community Confidence:****
     
 
   
