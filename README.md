@@ -79,7 +79,7 @@
 ## Key Benefits of Shared Wallet Contracts
 * ****Improves Treasury Security Through Multi-Party Authorization:****  A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals, reduces the impact of compromised accounts, and protects treasury assets from malicious actors. Even if one participant's wallet is hacked, an attacker cannot access the funds without obtaining the required number of approvals from other authorized members.
 * ****Enables Collective Decision-Making:**** Shared Wallets allow multiple stakeholders to participate in treasury management and fund allocation decisions. Rather than placing financial authority in the hands of a single individual, the wallet can require approvals from designated members before transactions are executed. This promotes democratic governance, minimizes unilateral actions, and ensures that major financial decisions reflect group consensus.
-* ****Enhances Transparency and Accountability:**** Every deposit, withdrawal, approval, rejection, and wallet interaction is permanently recorded on the blockchain. This creates a transparent and auditable financial history
+* ****Enhances Transparency and Accountability:**** Every deposit, withdrawal, approval, rejection, and wallet interaction is permanently recorded on the blockchain. This creates a transparent and auditable financial history that all stakeholders can independently
  
 
   
