@@ -77,8 +77,8 @@
 
 
 ## Key Benefits of Shared Wallet Contracts
-* ****Improves Treasury Security Through Multi-Party Authorization:****  A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals, reduces the impact of compromised accounts, and protects treasury assets from malicious actors. Even if one participant's wallet is hacked, an attacker cannot access the funds
-
+* ****Improves Treasury Security Through Multi-Party Authorization:****  A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals, reduces the impact of compromised accounts, and protects treasury assets from malicious actors. Even if one participant's wallet is hacked, an attacker cannot access the funds without obtaining the required number
+ 
 
   
 ## Foundry
