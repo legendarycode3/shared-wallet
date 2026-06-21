@@ -85,7 +85,7 @@
 * ****Reduces Internal Fraud and Misuse of Funds:****
 * ****Supports Flexible Governance Structures:****
 * ****Enables Automated Treasury Operations:****
-* ****Strengthens Trust Among Stakeholders:**** Trust is often a major challenge when multiple parties manage shared funds. A Shared Wallet replaces trust in individuals with trust in transparent smart contract rules. Participants can verify wallet balances,
+* ****Strengthens Trust Among Stakeholders:**** Trust is often a major challenge when multiple parties manage shared funds. A Shared Wallet replaces trust in individuals with trust in transparent smart contract rules. Participants can verify wallet balances, transaction history, and
   
 
   
