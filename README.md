@@ -28,7 +28,6 @@
 * ****Mappings:**** Uses mappings for efficient key-value storage. Provides O(1) lookups for permissions and allowances.
 * ****Allowance-Based Spending Model:**** Similar to the allowance concept in ERC-20 tokens. Users can only withdraw up to their assigned allowance.
 * ****Ether Handling Mechanisms:**** The contract implements all The contract accepts Ether through: (i) Deposit Function. (ii) Receive Function. (iii) Fallback Function. This allows Ether deposits through `Direct transfers`, `Explicit deposit calls`, `Unknown function calls with ETH attached`.
-
 * ****Events for Logging:**** Events are emitted whenever important actions occur. Events provide an on-chain audit trail. Implemented for Transaction tracking, Gas-efficient record keeping.
 * ****Custom Errors:**** Uses Solidity custom errors instead of revert strings. For the benefit of Lower gas costs, more structured error information.
 * ****Reentrancy Protection:**** Inherits from OpenZeppelin's `ReentrancyGuard` and protects withdrawals with: `nonReentrant`. This prevents classic reentrancy attacks where a malicious contract repeatedly re-enters the withdrawal function before state updates complete.
@@ -80,7 +79,7 @@
 * ****Improves Treasury Security Through Multi-Party Authorization:****  A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals, reduces the impact of compromised accounts, and protects treasury assets from malicious actors. Even if one participant's wallet is hacked, an attacker cannot access the funds without obtaining the required number of approvals from other authorized members.
 * ****Enables Collective Decision-Making:**** Shared Wallets allow multiple stakeholders to participate in treasury management and fund allocation decisions. Rather than placing financial authority in the hands of a single individual, the wallet can require approvals from designated members before transactions are executed. This promotes democratic governance, minimizes unilateral actions, and ensures that major financial decisions reflect group consensus.
 * ****Enhances Transparency and Accountability:**** Every deposit, withdrawal, approval, rejection, and wallet interaction is permanently recorded on the blockchain. This creates a transparent and auditable financial history that all stakeholders can independently verify. Teams, DAOs, businesses, and investment groups benefit from increased trust because no participant can secretly move funds without creating an immutable on-chain record.
-* ****Eliminates Single Points of Failure:**** A Shared Wallet distributes control of funds across multiple
+* ****Eliminates Single Points of Failure:**** A Shared Wallet distributes control of funds across multiple participants rather than relying on a single
  
 
   
