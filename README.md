@@ -86,7 +86,7 @@
 * ****Supports Flexible Governance Structures:**** Shared Wallet Smart Contracts can be customized to reflect various governance models. Organizations can define voting thresholds, approval requirements, spending limits, emergency procedures, role hierarchies, and permission levels. This flexibility allows the wallet to adapt to the operational needs of DAOs, enterprises, nonprofits, and decentralized communities.
 * ****Enables Automated Treasury Operations:**** Smart contract logic can automate treasury management processes that would otherwise require manual oversight. Examples include recurring payments, contributor rewards, salary distributions, grant funding, profit sharing, subscription payments, and milestone-based disbursements. Automation improves efficiency while reducing administrative workload and human error.
 * ****Strengthens Trust Among Stakeholders:**** Trust is often a major challenge when multiple parties manage shared funds. A Shared Wallet replaces trust in individuals with trust in transparent smart contract rules. Participants can verify wallet balances, transaction history, and governance requirements directly on-chain, reducing the need for intermediaries and increasing confidence in treasury operations.
-* ****Simplifies DAO Treasury Management:**** For decentralized organizations, Shared Wallets serve as the backbone of treasury management. Community
+* ****Simplifies DAO Treasury Management:**** For decentralized organizations, Shared Wallets serve as the backbone of treasury management. Community funds can be secured,
    
 
   
