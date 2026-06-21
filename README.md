@@ -93,7 +93,7 @@
 * ****Serves as a Foundation for Advanced Treasury Systems:****
 * ****Enables Programmable Financial Policies:****
 * ****Reduces Reliance on Trusted Third Parties:****
-* ****Facilitates Global Collaboration Without Borders:****
+* ****Facilitates Global Collaboration Without Borders:**** Participants from different countries
 * ****Increases Investor and Community Confidence:**** For projects that manage community funds, grants, or investor capital, Shared Wallets demonstrate a commitment to transparency and responsible treasury management. Visible governance processes and auditable transactions help build credibility, attract contributors, and reassure stakeholders that funds are being managed according to agreed-upon rules.
 * ****Creates a Verifiable Source of Financial Truth:**** A Shared Wallet acts as a single, authoritative source of treasury information. Since balances, approvals, and transaction histories are recorded on-chain, all participants work from the same dataset. This eliminates disputes arising from conflicting records and provides real-time visibility into the organization's financial position.
      
