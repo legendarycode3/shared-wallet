@@ -77,7 +77,7 @@
 
 
 ## Key Benefits of Shared Wallet Contracts
-* ****Improves Treasury Security Through Multi-Party Authorization:**** 
+* ****Improves Treasury Security Through Multi-Party Authorization:****  A Shared Wallet
 
 
   
