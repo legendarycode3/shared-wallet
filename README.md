@@ -84,7 +84,7 @@
 * ****Provides Immutable Audit Trails:****
 * ****Reduces Internal Fraud and Misuse of Funds:****
 * ****Supports Flexible Governance Structures:****
-* ****Enables Automated Treasury Operations:**** Smart contract logic can automate treasury management processes that would otherwise require manual oversight. Examples include recurring payments, contributor rewards, salary distributions, grant funding, profit sharing,
+* ****Enables Automated Treasury Operations:**** Smart contract logic can automate treasury management processes that would otherwise require manual oversight. Examples include recurring payments, contributor rewards, salary distributions, grant funding, profit sharing, subscription payments,
 * ****Strengthens Trust Among Stakeholders:**** Trust is often a major challenge when multiple parties manage shared funds. A Shared Wallet replaces trust in individuals with trust in transparent smart contract rules. Participants can verify wallet balances, transaction history, and governance requirements directly on-chain, reducing the need for intermediaries and increasing confidence in treasury operations.
   
 
