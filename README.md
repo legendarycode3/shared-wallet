@@ -104,7 +104,7 @@
 ## Common Key UseCases of Shared Wallet  Contracts
 * ****Enables Decentralized Treasury Management:****
 * ****Prevents Single Points of Failure:****
-* ****Improves Treasury Security Through Multi-Party Authorization:**** A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer
+* ****Improves Treasury Security Through Multi-Party Authorization:**** A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals,
 
   
 ## Foundry
