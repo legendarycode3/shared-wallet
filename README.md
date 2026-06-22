@@ -103,6 +103,7 @@
 
 ## Common Key UseCases of Shared Wallet  Contracts
 * ****Enables Decentralized Treasury Management:****
+* ****Prevents Single Points of Failure:****
 
   
 ## Foundry
