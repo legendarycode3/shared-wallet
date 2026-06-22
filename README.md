@@ -109,7 +109,7 @@
 * ****Supports DAO Treasury Governance:**** Decentralized Autonomous Organizations frequently use Shared Wallets to manage community funds. Members elected as signers can approve expenditures, grants, investments, and operational expenses according to governance decisions. This ensures that treasury movements align with community-approved proposals rather than the preferences of a single individual.
 * ****Facilitates Joint Business Account Management:**** Businesses with multiple founders, executives, or finance officers can use Shared Wallets to manage corporate crypto assets. Large payments, vendor settlements, and operational expenditures can require approval from multiple stakeholders before execution. This reduces the risk of fraud, accounting irregularities, and unauthorized spending.
 * ****Protects Investment Funds and Syndicates:**** Investment groups and crypto syndicates often pool capital to participate in investment opportunities. Shared Wallets ensure that no single participant can independently move or misuse pooled funds. Investment decisions require collective authorization, providing greater confidence to contributors and protecting investor capital.
-* ****Enables Secure Grant and Fund Distribution:**** Foundations, nonprofits, and ecosystem funds can use Shared Wallets to distribute grants responsibly.
+* ****Enables Secure Grant and Fund Distribution:**** Foundations, nonprofits, and ecosystem funds can use Shared Wallets to distribute grants responsibly. Multiple reviewers can verify recipient eligibility
  
   
 ## Foundry
