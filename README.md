@@ -107,7 +107,7 @@
 * ****Improves Treasury Security Through Multi-Party Authorization:**** A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals, reduces the impact of compromised accounts, and protects treasury assets from malicious actors. Even if one participant's wallet is hacked, an attacker cannot access the funds without obtaining the required number of approvals from other authorized members.
 * ****Enhances Transparency and Accountability:**** Every proposal, approval, rejection, and transaction is recorded on-chain, creating a transparent audit trail that all stakeholders can verify. Team members can clearly see who approved specific transactions and when those approvals occurred. This accountability discourages misuse of funds and strengthens trust among participants.
 * ****Supports DAO Treasury Governance:**** Decentralized Autonomous Organizations frequently use Shared Wallets to manage community funds. Members elected as signers can approve expenditures, grants, investments, and operational expenses according to governance decisions. This ensures that treasury movements align with community-approved proposals rather than the preferences of a single individual.
-* ****Facilitates Joint Business Account Management:****
+* ****Facilitates Joint Business Account Management:**** Businesses with multiple founders,
 
   
 ## Foundry
