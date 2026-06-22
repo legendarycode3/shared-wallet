@@ -105,7 +105,7 @@
 * ****Enables Decentralized Treasury Management:**** Organizations, DAOs, and communities can manage funds collectively without relying on a single individual. Treasury decisions are executed only after reaching an agreed approval threshold, ensuring that financial control is distributed among trusted participants. This structure reduces centralization risks and promotes democratic governance over shared assets.
 * ****Prevents Single Points of Failure:**** Traditional wallets depend on one private key, creating a critical vulnerability if that key is lost, stolen, or compromised. Shared Wallets distribute control across multiple signers, ensuring that operations can continue even if one member loses access to their wallet. This resilience improves operational continuity and safeguards critical funds.
 * ****Improves Treasury Security Through Multi-Party Authorization:**** A Shared Wallet can require multiple approvals before funds are transferred. This additional security layer prevents unauthorized withdrawals, reduces the impact of compromised accounts, and protects treasury assets from malicious actors. Even if one participant's wallet is hacked, an attacker cannot access the funds without obtaining the required number of approvals from other authorized members.
-* ****Enhances Transparency and Accountability:**** Every proposal, approval, rejection,
+* ****Enhances Transparency and Accountability:**** Every proposal, approval, rejection, and transaction is recorded on-chain,
 
   
 ## Foundry
