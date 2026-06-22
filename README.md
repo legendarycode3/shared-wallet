@@ -110,7 +110,7 @@
 * ****Facilitates Joint Business Account Management:**** Businesses with multiple founders, executives, or finance officers can use Shared Wallets to manage corporate crypto assets. Large payments, vendor settlements, and operational expenditures can require approval from multiple stakeholders before execution. This reduces the risk of fraud, accounting irregularities, and unauthorized spending.
 * ****Protects Investment Funds and Syndicates:**** Investment groups and crypto syndicates often pool capital to participate in investment opportunities. Shared Wallets ensure that no single participant can independently move or misuse pooled funds. Investment decisions require collective authorization, providing greater confidence to contributors and protecting investor capital.
 * ****Enables Secure Grant and Fund Distribution:**** Foundations, nonprofits, and ecosystem funds can use Shared Wallets to distribute grants responsibly. Multiple reviewers can verify recipient eligibility and approve payments before funds are released. This process minimizes the risk of accidental transfers, favoritism, or misuse of allocated resources.
-* ****Improves Community Fund Management:**** Online communities, clubs, and decentralized projects often maintain shared funds for events, rewards, development, and
+* ****Improves Community Fund Management:**** Online communities, clubs, and decentralized projects often maintain shared funds for events, rewards, development, and operational expenses. Shared Wallets allow community-appointed representatives to
  
   
 ## Foundry
