@@ -99,7 +99,9 @@
 * ****Facilitates Global Collaboration Without Borders:**** Participants from different countries can securely manage a shared treasury without requiring access to the same banking system or jurisdiction. Shared Wallets enable borderless collaboration, making them particularly valuable for international DAOs, remote teams, global investment clubs, and open-source communities operating across multiple regions.
 * ****Increases Investor and Community Confidence:**** For projects that manage community funds, grants, or investor capital, Shared Wallets demonstrate a commitment to transparency and responsible treasury management. Visible governance processes and auditable transactions help build credibility, attract contributors, and reassure stakeholders that funds are being managed according to agreed-upon rules.
 * ****Creates a Verifiable Source of Financial Truth:**** A Shared Wallet acts as a single, authoritative source of treasury information. Since balances, approvals, and transaction histories are recorded on-chain, all participants work from the same dataset. This eliminates disputes arising from conflicting records and provides real-time visibility into the organization's financial position.
-     
+
+
+## Common Key UseCases of Shared Wallet  Contracts
 
   
 ## Foundry
