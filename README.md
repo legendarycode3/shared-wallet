@@ -119,7 +119,7 @@
 * ****Facilitates Cross-Department Financial Governance:**** Large organizations may require  collaboration between finance, operations,  legal, and executive teams before major transactions occur.  Shared Wallets provide a decentralized approval mechanism that ensures  multiple departments participate in critical financial decisions, reducing operational and compliance risks.
 * ****Provides On-Chain Auditability for Compliance:**** Because all approvals and transactions are permanently recorded on the blockchain, Shared Wallets create a verifiable history of treasury activities. Auditors, regulators, investors, and governance participants can independently review transaction records, improving compliance reporting and operational transparency.
 * ****Enables Trust-Minimized Asset Management:**** Shared Wallets reduce  the need to place complete trust in any single participant. Security is enforced through smart contract logic rather than personal reputation alone.  By requiring consensus among multiple authorized parties, organizations can manage assets in a trust-minimized manner that aligns with the principles of decentralization and blockchain governance.
-* **** Enables Milestone-Based Fund Release:**** Projects can lock funds within a Shared Wallet and release them only after predefined milestones are reviewed and approved by designated stakeholders. 
+* **** Enables Milestone-Based Fund Release:**** Projects can lock funds within a Shared Wallet and release them only after predefined milestones are reviewed and approved by designated stakeholders. This ensures that contractors,
 
  
 
