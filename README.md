@@ -113,7 +113,7 @@
 * ****Improves Community Fund Management:**** Online communities, clubs, and decentralized projects often maintain shared funds for events, rewards, development, and operational expenses. Shared Wallets allow community-appointed representatives to jointly control these resources. Members gain confidence that funds cannot be spent without proper oversight and collective agreement.
 * ****Secures Protocol-Owned Assets:**** Blockchain protocols frequently accumulate treasury reserves, liquidity assets, and operational funds. Shared Wallets provide a governance-controlled mechanism for managing these valuable resources. Any transfer, investment, or treasury adjustment requires approvals from designated protocol representatives, reducing governance and security risks.
 * ****Enables Emergency Recovery and Incident Response:**** Shared Wallets can help organizations respond safely to security incidents. If one signer's account is compromised, remaining signers can prevent unauthorized transactions and move assets to secure wallets. The requirement for multiple approvals provides valuable protection during emergencies and limits the damage from security breaches.
-* ****Controls Project Development Budgets:**** Blockchain projects and startups can allocate development budgets through Shared Wallets.  Team leads,
+* ****Controls Project Development Budgets:**** Blockchain projects and startups can allocate development budgets through Shared Wallets.  Team leads, founders, 
  
   
 ## Foundry
