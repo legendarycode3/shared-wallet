@@ -124,7 +124,7 @@
 * ****Reduces Insider Threat Risks:**** A single administrator with unrestricted access to treasury funds  presents a significant insider risk. Shared Wallets mitigate this concern by requiring multiple independent approvals before funds can be moved. This prevents any individual from acting unilaterally and creates checks and balances within the organization.
 * ****Supports Escrow-Like Arrangements:**** Multiple parties involved in a transaction can use a Shared Wallet to  hold funds until agreed conditions are satisfied. Once all required participants approve,  the funds can be released to the designated recipient. This mechanism increases trust between parties and reduces dependence on centralized intermediaries.
 * ****Enables Secure Custody of High-Value Assets:**** Organizations holding substantial cryptocurrency reserves often require institutional-grade  security controls. Shared Wallets reduce custody risks by distributing signing authority across multiple trusted individuals or departments. This approach significantly decreases the likelihood that a single compromised key could lead to catastrophic financial losses.
-* ****Supports Partnership and  and Consortium Operations:**** Multiple organizations collaborating on a joint initiative can maintain a Shared Wallet for managing shared funds.
+* ****Supports Partnership and  and Consortium Operations:**** Multiple organizations collaborating on a joint initiative can maintain a Shared Wallet for managing shared funds. Representatives from each
   
 
  
