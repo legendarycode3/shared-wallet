@@ -125,7 +125,7 @@
 * ****Supports Escrow-Like Arrangements:**** Multiple parties involved in a transaction can use a Shared Wallet to  hold funds until agreed conditions are satisfied. Once all required participants approve,  the funds can be released to the designated recipient. This mechanism increases trust between parties and reduces dependence on centralized intermediaries.
 * ****Enables Secure Custody of High-Value Assets:**** Organizations holding substantial cryptocurrency reserves often require institutional-grade  security controls. Shared Wallets reduce custody risks by distributing signing authority across multiple trusted individuals or departments. This approach significantly decreases the likelihood that a single compromised key could lead to catastrophic financial losses.
 * ****Supports Partnership and  and Consortium Operations:**** Multiple organizations collaborating on a joint initiative can maintain a Shared Wallet for managing shared funds. Representatives from each participating entity can act as signers, ensuring that financial decisions require consensus from all relevant stakeholders.  This structure promotes fairness,  transparency, and cooperative governance.
-* ****Enforces Internal Financial Controls:**** Companies can implement approval workflows that mirror traditional corporate finance 
+* ****Enforces Internal Financial Controls:**** Companies can implement approval workflows that mirror traditional corporate finance processes. For example, 
   
 
  
