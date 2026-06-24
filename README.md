@@ -122,7 +122,7 @@
 * **** Enables Milestone-Based Fund Release:**** Projects can lock funds within a Shared Wallet and release them only after predefined milestones are reviewed and approved by designated stakeholders. This ensures that contractors, development teams,  or grant recipients receive payments only after delivering agreed outcomes,  improving accountability and project execution.
 * ****Enables Time-Sensitive Collective Decision Making:**** Shared Wallets allow multiple stakeholders to rapidly coordinate and  approve urgent financial actions. Whether responding to market opportunities, secursity threats, or operational requirements, participants can review and approve transactions from their wallets without requiring  centralized financial intermediaries.
 * ****Reduces Insider Threat Risks:**** A single administrator with unrestricted access to treasury funds  presents a significant insider risk. Shared Wallets mitigate this concern by requiring multiple independent approvals before funds can be moved. This prevents any individual from acting unilaterally and creates checks and balances within the organization.
-* ****Supports Escrow-Like Arrangements:**** Multiple parties involved in a transaction can use a Shared Wallet to  hold funds until agreed conditions are satisfied. Once all required participants approve,  the funds can be released to the designated recipient. This mechanism increases
+* ****Supports Escrow-Like Arrangements:**** Multiple parties involved in a transaction can use a Shared Wallet to  hold funds until agreed conditions are satisfied. Once all required participants approve,  the funds can be released to the designated recipient. This mechanism increases trust between parties 
 
 
  
