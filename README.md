@@ -129,7 +129,7 @@
 * ****Reduces Insider Threat Risks:**** A single administrator  with unrestricted access to treasury funds presents a significant insider risk. Shared Wallets mitigate this concern by requiring multiple independent approvals before funds can be moved. This prevents any individual from acting  unilaterally and creates checks and balances  within the organization.
 * ****Supports Family and Inheritance Asset Management:**** Families can use  Shared Wallets to jointly manage digital assets  and long-term holdings.  Multiple trusted family members can participate in asset oversight, while inheritance or succession plans can be structured around predefined approval requirements. This reduces the risk of permanent asset loss due to forgotten keys or unexpected events.
 * ****Bug Bounty Reward Distribution:****
-* ****Payroll and Contributor Compensation Management:**** Shared Wallets can be used to manage salary payments, contributor rewards, and contractor compensation.
+* ****Payroll and Contributor Compensation Management:**** Shared Wallets can be used to manage salary payments, contributor rewards, and contractor compensation. Finance teams,
 * ****Validator and Infrastructure Operations Funding:****
 * ****Liquidity Management and Market Operations:****
   
