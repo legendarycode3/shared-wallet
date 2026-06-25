@@ -130,7 +130,7 @@
 * ****Supports Family and Inheritance Asset Management:**** Families can use  Shared Wallets to jointly manage digital assets  and long-term holdings.  Multiple trusted family members can participate in asset oversight, while inheritance or succession plans can be structured around predefined approval requirements. This reduces the risk of permanent asset loss due to forgotten keys or unexpected events.
 * ****Bug Bounty Reward Distribution:****
 * ****Payroll and Contributor Compensation Management:****
-* ****Validator and:****
+* ****Validator and Infrastructure Operations Funding:****
   
 
  
