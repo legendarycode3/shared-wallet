@@ -133,7 +133,7 @@
 * ****Validator and Infrastructure Operations Funding:**** Networks frequently maintain funds for validators, node operators, relayers, and infrastructure providers. Shared Wallets enable multiple operators or governance representatives to approve infrastructure expenses, server costs, and operational funding, reducing the risk of unilateral fund allocation. 
 * ****Liquidity Management and Market Operations:**** Projects that manage liquidity pools, market-making reserves, or treasury-backed liquidity programs can use Shared Wallets to authorize liquidity deployments and withdrawals. Multiple approvals help prevent accidental or malicious movement of assets that could impact market stability.
 * ****Staking Reward Distribution Management:**** Organizations participating in staking activities can use Shared Wallets to manage accumulated rewards. Signers can jointly approve reward withdrawals, reinvestment strategies, or distribution among stakeholders according to predefined policies.
-* ****. Cross-Border Team Fund Management:**** Global organizations with members operating across
+* ****. Cross-Border Team Fund Management:**** Global organizations with members operating across different jurisdictions can use
   
 
  
