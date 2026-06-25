@@ -130,7 +130,7 @@
 * ****Supports Family and Inheritance Asset Management:**** Families can use  Shared Wallets to jointly manage digital assets  and long-term holdings.  Multiple trusted family members can participate in asset oversight, while inheritance or succession plans can be structured around predefined approval requirements. This reduces the risk of permanent asset loss due to forgotten keys or unexpected events.
 * ****Bug Bounty Reward Distribution:****  Blockchain projects often allocate funds for security researchers who discover vulnerabilities. A Shared Wallet allows security teams, auditors, and project leaders to collectively verify reported issues and approve bounty payments. This ensures rewards are distributed fairly and only after proper validation.
 * ****Payroll and Contributor Compensation Management:**** Shared Wallets can be used to manage salary payments, contributor rewards, and contractor compensation. Finance teams, project managers, and executives can jointly approve recurring payments before execution. This ensures compensation is distributed accurately and prevents unauthorized payroll modifications.
-* ****Validator and Infrastructure Operations Funding:**** Networks frequently maintain funds for validators, node operators,
+* ****Validator and Infrastructure Operations Funding:**** Networks frequently maintain funds for validators, node operators, relayers, and
 * ****Liquidity Management and Market Operations:****
   
 
