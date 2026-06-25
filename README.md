@@ -131,7 +131,7 @@
 * ****Bug Bounty Reward Distribution:****  Blockchain projects often allocate funds for security researchers who discover vulnerabilities. A Shared Wallet allows security teams, auditors, and project leaders to collectively verify reported issues and approve bounty payments. This ensures rewards are distributed fairly and only after proper validation.
 * ****Payroll and Contributor Compensation Management:**** Shared Wallets can be used to manage salary payments, contributor rewards, and contractor compensation. Finance teams, project managers, and executives can jointly approve recurring payments before execution. This ensures compensation is distributed accurately and prevents unauthorized payroll modifications.
 * ****Validator and Infrastructure Operations Funding:**** Networks frequently maintain funds for validators, node operators, relayers, and infrastructure providers.
-* ****Liquidity Management and Market Operations:**** Shared Wallets
+* ****Liquidity Management and Market Operations:**** Shared Wallets enable multiple operators or
   
 
  
