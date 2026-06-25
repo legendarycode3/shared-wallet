@@ -131,6 +131,7 @@
 * ****Bug Bounty Reward Distribution:****
 * ****Payroll and Contributor Compensation Management:****
 * ****Validator and Infrastructure Operations Funding:****
+* ****Liquidity Management:****
   
 
  
