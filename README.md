@@ -126,7 +126,7 @@
 * ****Enables Secure Custody of High-Value Assets:**** Organizations holding substantial cryptocurrency reserves often require institutional-grade  security controls. Shared Wallets reduce custody risks by distributing signing authority across multiple trusted individuals or departments. This approach significantly decreases the likelihood that a single compromised key could lead to catastrophic financial losses.
 * ****Supports Partnership and  and Consortium Operations:**** Multiple organizations collaborating on a joint initiative can maintain a Shared Wallet for managing shared funds. Representatives from each participating entity can act as signers, ensuring that financial decisions require consensus from all relevant stakeholders.  This structure promotes fairness,  transparency, and cooperative governance.
 * ****Enforces Internal Financial Controls:**** Companies can implement approval workflows that mirror traditional corporate finance processes. For example, transactions above certain thresholds may  require approvals from department heads,  finance teams, and executives. Shared Wallets automate these controls at the smart contract level, reducing human error and  strengthening compliance.
-* ****Reduces Insider Threat Risks:**** A single administrator  with unrestricted access to treasury funds presents a significant insider risk. Shared Wallets mitigate this concern by requiring multiple 
+* ****Reduces Insider Threat Risks:**** A single administrator  with unrestricted access to treasury funds presents a significant insider risk. Shared Wallets mitigate this concern by requiring multiple independent approvals 
   
 
  
