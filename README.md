@@ -77,7 +77,7 @@
     * Accepts incoming Ether.
     * Handles transactions with unknown function selectors.
     * Prevents transactions from reverting solely because the calldata is unrecognized.
-    * Emits a `Deposit` event
+    * Emits a `Deposit` event recording the sender and
 
 
 ### Variables:
