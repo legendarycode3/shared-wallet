@@ -98,7 +98,7 @@
     * Reverts the transaction if the Ether transfer fails.
     * Emits a `Withdrawal` event recording the recipient and transferred amount.
     * Uses the `nonReentrant` modifier to prevent reentrancy attacks.
-* ****`getBalance()`:**** Returns the total amount
+* ****`getBalance()`:**** Returns the total amount of Ether currently stored
 
 
 ### Variables:
