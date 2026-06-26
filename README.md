@@ -71,6 +71,7 @@
 * ****`receive() external payable`:**** Automatically receives Ether sent directly to the contract without any calldata. This function allows anyone to fund the shared wallet by simply transferring ETH to the contract address. The function:
     * Accepts incoming Ether transfers.
     * Increases the contract's Ether balance.
+    * Emits a `Deposit` event
 
 
 ### Variables:
