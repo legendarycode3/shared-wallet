@@ -94,6 +94,7 @@
     * Verifies the caller has sufficient remaining allowance.
     * Deducts the withdrawal amount from the caller's allowance before transferring funds.
     * Uses the Checks-Effects-Interactions pattern to improve security.
+    * Performs a low-level external call
 
 
 ### Variables:
