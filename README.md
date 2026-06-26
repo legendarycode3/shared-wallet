@@ -61,7 +61,7 @@
     * Verifies the caller is the contract owner.
     * Verifies the supplied address is not the zero address.
     * Updates the user's permission status in the `isPermitted` mapping.
-    * Grants permission
+    * Grants permission when `_status` is `true`.
 
 ### Variables:
 
