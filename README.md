@@ -88,7 +88,7 @@
     * Updates the user's allowance.
     * Stores the new allowance in the `allowance` mapping.
     * Emits an `AllowanceUpdated` event containing the user's address and new allowance.
-* ****`withdraw(address payable _to, uint256 _amount)`:**** Withdraws Ether from the shared wallet to a specified recipient. This is the primary function responsible for transferring funds from the contract. Only permitted addresses can
+* ****`withdraw(address payable _to, uint256 _amount)`:**** Withdraws Ether from the shared wallet to a specified recipient. This is the primary function responsible for transferring funds from the contract. Only permitted addresses can execute this function, and
 
 
 ### Variables:
