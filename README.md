@@ -87,6 +87,7 @@
     * Verifies the provided address is not the zero address.
     * Updates the user's allowance.
     * Stores the new allowance in the `allowance` mapping.
+    * Emits an AllowanceUpdated event
 
 
 ### Variables:
