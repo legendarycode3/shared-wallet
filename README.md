@@ -55,7 +55,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****constructor():**** Initializes the Shared Wallet contract during deployment. This function is automatically
+* ****constructor():**** Initializes the Shared Wallet contract during deployment. This function is automatically executed once when the contract is deployed.
 
 ### Variables:
 
