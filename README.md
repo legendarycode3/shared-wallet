@@ -60,6 +60,7 @@
     * Sets the deployer (msg.sender) as the immutable owner (i_owner).
     * Grants the owner withdrawal permission by setting `isPermitted[msg.sender] = true`.
     * Initializes the contract's access control system.
+    * Can only be executed
 * ****`setPermission()`:**** Grants or revokes withdrawal permission for a specified address. This function manages which addresses are allowed to withdraw funds from the shared wallet. Only the contract owner can execute this function. The function:
     * Verifies the caller is the contract owner.
     * Verifies the supplied address is not the zero address.
