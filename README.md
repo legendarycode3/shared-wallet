@@ -55,7 +55,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****constructor():**** Initializes the Shared
+* ****constructor():**** Initializes the Shared Wallet contract during deployment.
 
 ### Variables:
 
