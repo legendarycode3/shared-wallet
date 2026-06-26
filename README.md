@@ -91,6 +91,7 @@
 * ****`withdraw(address payable _to, uint256 _amount)`:**** Withdraws Ether from the shared wallet to a specified recipient. This is the primary function responsible for transferring funds from the contract. Only permitted addresses can execute this function, and withdrawals are limited by each user's assigned allowance. The function:
     * Verifies the caller has withdrawal permission.
     * Verifies the contract holds enough Ether to complete the withdrawal.
+    * Verifies the caller has
 
 
 ### Variables:
