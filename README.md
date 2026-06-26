@@ -63,7 +63,7 @@
     * Updates the user's permission status in the `isPermitted` mapping.
     * Grants permission when `_status` is `true`.
     * Revokes permission when `_status` is `false`.
-    * Emits an AddressPermitted
+    * Emits an `AddressPermitted` event recording the permission change.
 
 ### Variables:
 
