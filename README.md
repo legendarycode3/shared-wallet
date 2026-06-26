@@ -55,7 +55,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****constructor():****
+* ****constructor():**** Initializes the Shared
 
 ### Variables:
 
