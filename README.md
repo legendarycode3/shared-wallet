@@ -102,6 +102,7 @@
     * Reads the contract's current Ether balance.
     * Returns the balance in wei.
     * Does not modify contract storage.
+    * Can be called by any address without restrictions.
 
 
 ### Variables:
