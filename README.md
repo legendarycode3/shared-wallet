@@ -56,7 +56,7 @@
 ## 📋Contract Details
 ### Functions:
 * ****`constructor()`:**** Initializes the Shared Wallet contract during deployment. This function is automatically executed once when the contract is deployed. It establishes the contract owner and grants the deployer permission to perform restricted operations.
-* ****`setPermission()`:**** Grants or revokes withdrawal permission for a specified address. This function manages which
+* ****`setPermission()`:**** Grants or revokes withdrawal permission for a specified address. This function manages which addresses are allowed
 
 ### Variables:
 
