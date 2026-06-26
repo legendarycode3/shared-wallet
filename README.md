@@ -75,7 +75,7 @@
     * Requires no function call or parameters.
 * ****`fallback() external payable`:**** Automatically receives Ether when a transaction includes calldata that does not match any existing function or when Ether is sent with arbitrary data. The function:
     * Accepts incoming Ether.
-    * Handles transactions with
+    * Handles transactions with unknown function selectors.
 
 
 ### Variables:
