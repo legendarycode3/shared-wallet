@@ -56,6 +56,8 @@
 ## 📋Contract Details
 ### Functions:
 
+### Variables:
+
 
 
 ## Why This Matters (Shared Wallet Smart Contract)
