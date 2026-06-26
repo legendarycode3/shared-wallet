@@ -72,6 +72,7 @@
     * Accepts incoming Ether transfers.
     * Increases the contract's Ether balance.
     * Emits a `Deposit` event containing the sender's address and deposited amount.
+    * Requires no function call
 
 
 ### Variables:
