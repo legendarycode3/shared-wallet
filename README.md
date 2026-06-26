@@ -60,6 +60,7 @@
 * ****`setPermission()`:**** Grants or revokes withdrawal permission for a specified address. This function manages which addresses are allowed to withdraw funds from the shared wallet. Only the contract owner can execute this function. The function:
     * Verifies the caller is the contract owner.
     * Verifies the supplied address is not the zero address.
+    * Updates the user's permission
 
 ### Variables:
 
