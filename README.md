@@ -83,7 +83,7 @@
     * Increases the wallet's Ether balance.
     * Emits a `Deposit` event containing the depositor's address and the deposited amount.
     * Has no access restrictions.
-* ****`setAllowance(address _user, uint256 _amount)`:**** Assigns or updates the withdrawal allowance for a specified address by `onlyOwner`. The allowance determines the maximum amount of Ether a permitted user can withdraw from the shared wallet. The function:
+* ****`setAllowance(address _user, uint256 _amount) onlyOwner`:**** Assigns or updates the withdrawal allowance for a specified address by `onlyOwner`. The allowance determines the maximum amount of Ether a permitted user can withdraw from the shared wallet. The function:
     * Verifies the provided address is not the zero address.
     * Updates the user's allowance.
     * Stores the new allowance in the `allowance` mapping.
@@ -98,7 +98,7 @@
     * Reverts the transaction if the Ether transfer fails.
     * Emits a `Withdrawal` event recording the recipient and transferred amount.
     * Uses the `nonReentrant` modifier to prevent reentrancy attacks.
-* ****`getBalance()`:**** Returns the total amount of Ether currently stored in the shared wallet.
+* ****`getBalance()`:**** Returns the total amount of Ether currently stored in the shared wallet. This is a read-only
 
 
 ### Variables:
