@@ -62,7 +62,7 @@
     * Verifies the supplied address is not the zero address.
     * Updates the user's permission status in the `isPermitted` mapping.
     * Grants permission when `_status` is `true`.
-    * Revokes permission
+    * Revokes permission when `_status` is `false`.
 
 ### Variables:
 
