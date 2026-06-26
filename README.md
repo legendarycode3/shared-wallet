@@ -54,6 +54,7 @@
 
 
 ## 📋Contract Details
+### Functions:
 
 
 
