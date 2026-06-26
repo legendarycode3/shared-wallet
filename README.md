@@ -97,7 +97,7 @@
     * Performs a low-level external call (`call`) to transfer Ether to the recipient.
     * Reverts the transaction if the Ether transfer fails.
     * Emits a `Withdrawal` event recording the recipient and transferred amount.
-    * Uses the nonReentrant
+    * Uses the `nonReentrant` modifier to prevent reentrancy attacks.
 
 
 ### Variables:
