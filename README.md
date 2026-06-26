@@ -81,7 +81,7 @@
 * ****`deposit()`:**** Allows any user to explicitly deposit Ether into the shared wallet. Unlike the `receive()` function, this function is intentionally called by users who want to fund the contract. The function:
     * Accepts Ether from any address.
     * Increases the wallet's Ether balance.
-    * Emits a Deposit event
+    * Emits a `Deposit` event containing the depositor's address
 
 
 ### Variables:
