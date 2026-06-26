@@ -101,6 +101,7 @@
 * ****`getBalance()`:**** Returns the total amount of Ether currently stored in the shared wallet. This is a read-only function that allows anyone to check the contract's available balance. The function:
     * Reads the contract's current Ether balance.
     * Returns the balance in wei.
+    * Does not modify contract storage.
 
 
 ### Variables:
