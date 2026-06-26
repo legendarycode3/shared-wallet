@@ -86,7 +86,7 @@
 * ****`setAllowance(address _user, uint256 _amount)`:**** Assigns or updates the withdrawal allowance for a specified address. The allowance determines the maximum amount of Ether a permitted user can withdraw from the shared wallet. The function:
     * Verifies the provided address is not the zero address.
     * Updates the user's allowance.
-    * Stores the new allowance
+    * Stores the new allowance in the `allowance` mapping.
 
 
 ### Variables:
