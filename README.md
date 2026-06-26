@@ -88,6 +88,7 @@
     * Updates the user's allowance.
     * Stores the new allowance in the `allowance` mapping.
     * Emits an `AllowanceUpdated` event containing the user's address and new allowance.
+* ****`withdraw()`:****
 
 
 ### Variables:
