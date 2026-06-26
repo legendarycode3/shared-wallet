@@ -96,6 +96,7 @@
     * Uses the Checks-Effects-Interactions pattern to improve security.
     * Performs a low-level external call (`call`) to transfer Ether to the recipient.
     * Reverts the transaction if the Ether transfer fails.
+    * Emits a Withdrawal event
 
 
 ### Variables:
