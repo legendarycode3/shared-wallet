@@ -92,6 +92,7 @@
     * Verifies the caller has withdrawal permission.
     * Verifies the contract holds enough Ether to complete the withdrawal.
     * Verifies the caller has sufficient remaining allowance.
+    * Deducts the withdrawal amount
 
 
 ### Variables:
