@@ -73,6 +73,7 @@
     * Increases the contract's Ether balance.
     * Emits a `Deposit` event containing the sender's address and deposited amount.
     * Requires no function call or parameters.
+* ****`fallback() external payable`:****
 
 
 ### Variables:
