@@ -78,7 +78,7 @@
     * Handles transactions with unknown function selectors.
     * Prevents transactions from reverting solely because the calldata is unrecognized.
     * Emits a `Deposit` event recording the sender and deposited amount.
-* ****`deposit()`:**** Allows any user to explicitly deposit Ether into the shared wallet. Unlike the `receive()` function, this function is intentionally called by users
+* ****`deposit()`:**** Allows any user to explicitly deposit Ether into the shared wallet. Unlike the `receive()` function, this function is intentionally called by users who want to fund the contract.
 
 
 ### Variables:
