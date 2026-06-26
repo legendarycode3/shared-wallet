@@ -58,7 +58,7 @@
 ### Functions:
 * ****`constructor()`:**** Initializes the Shared Wallet contract during deployment. This function is automatically executed once when the contract is deployed. It establishes the contract owner and grants the deployer permission to perform restricted operations. The function:
     * Sets the deployer (msg.sender) as the immutable owner (i_owner).
-    * Grants the owner withdrawal permission by
+    * Grants the owner withdrawal permission by setting `isPermitted[msg.sender] = true`.
 * ****`setPermission()`:**** Grants or revokes withdrawal permission for a specified address. This function manages which addresses are allowed to withdraw funds from the shared wallet. Only the contract owner can execute this function. The function:
     * Verifies the caller is the contract owner.
     * Verifies the supplied address is not the zero address.
