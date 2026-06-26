@@ -83,6 +83,7 @@
     * Increases the wallet's Ether balance.
     * Emits a `Deposit` event containing the depositor's address and the deposited amount.
     * Has no access restrictions.
+* ****`setAllowance()`:****
 
 
 ### Variables:
