@@ -68,7 +68,7 @@
     * Grants permission when `_status` is `true`.
     * Revokes permission when `_status` is `false`.
     * Emits an `AddressPermitted` event recording the permission change.
-* ****`receive() external payable`:**** Automatically receives Ether sent directly to the contract without any calldata. This function allows anyone to fund the shared wallet by simply
+* ****`receive() external payable`:**** Automatically receives Ether sent directly to the contract without any calldata. This function allows anyone to fund the shared wallet by simply transferring ETH to the contract address.
 
 
 ### Variables:
