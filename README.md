@@ -68,7 +68,7 @@
     * Grants permission when `_status` is `true`.
     * Revokes permission when `_status` is `false`.
     * Emits an `AddressPermitted` event recording the permission change.
-* ****`receive() external payable`:**** Automatically receives Ether sent directly to the contract
+* ****`receive() external payable`:**** Automatically receives Ether sent directly to the contract without any calldata. This function
 
 
 ### Variables:
