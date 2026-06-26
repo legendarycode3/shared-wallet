@@ -84,7 +84,7 @@
     * Emits a `Deposit` event containing the depositor's address and the deposited amount.
     * Has no access restrictions.
 * ****`setAllowance(address _user, uint256 _amount)`:**** Assigns or updates the withdrawal allowance for a specified address. The allowance determines the maximum amount of Ether a permitted user can withdraw from the shared wallet. The function:
-    * Verifies the provided address
+    * Verifies the provided address is not the zero address.
 
 
 ### Variables:
