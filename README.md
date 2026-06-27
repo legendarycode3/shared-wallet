@@ -118,10 +118,8 @@
     * Returns the owner's address.
     * Does not modify contract state.
 
-
-
-
 ### Variables:
+* ****`i_owner`:****
 
 
 
