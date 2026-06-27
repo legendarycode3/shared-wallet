@@ -120,7 +120,8 @@
 
 ### Variables:
 * ****`i_owner`:****
-* ****`isPermitted `:****
+* ****`isPermitted`:****
+* ****`allowance`:****
 
 
 
