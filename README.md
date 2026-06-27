@@ -110,7 +110,7 @@
     * Does not modify contract state.
 * ****`allowance(address user)`:**** Returns the current withdrawal allowance assigned to a specified address. The function:
     * Reads the user's allowance  from the `allowance` mapping.
-    * Returns the remaining
+    * Returns the remaining withdrawal limit in wei.
 
 
 
