@@ -106,6 +106,7 @@
 * ****`isPermitted(address user)`:**** Returns whether a specific address has permission to perform restricted operations such as withdrawing funds. The function:
     * Looks up the address in the isPermitted mapping.
     * Returns `true` if the address is permitted.
+    * Returns `false` if
 
 
 ### Variables:
