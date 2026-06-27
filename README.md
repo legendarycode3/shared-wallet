@@ -108,6 +108,7 @@
     * Returns `true` if the address is permitted.
     * Returns `false` if  the address is not permitted.
     * Does not modify contract state.
+* ****`allowance(address user)`:****
 
 
 ### Variables:
