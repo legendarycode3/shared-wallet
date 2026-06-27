@@ -108,7 +108,8 @@
     * Returns `true` if the address is permitted.
     * Returns `false` if  the address is not permitted.
     * Does not modify contract state.
-* ****`allowance(address user)`:**** Returns the current withdrawal allowance assigned
+* ****`allowance(address user)`:**** Returns the current withdrawal allowance assigned to a specified address.
+
 
 
 ### Variables:
