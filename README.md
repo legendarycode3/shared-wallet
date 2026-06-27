@@ -114,7 +114,8 @@
     * Allows anyone to view another user's allowance.
     * Does not modify contract state.
 * ****`i_owner()`:**** Returns the address of the contract owner  established during deployment. The function:
-    * Reads the immutable
+    * Reads the immutable  owner address.
+
 
 
 
