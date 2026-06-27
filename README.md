@@ -103,7 +103,7 @@
     * Returns the balance in wei.
     * Does not modify contract storage.
     * Can be called by any address without restrictions.
-* ****`isPermitted(address user)`:**** Returns whether a specific address has permission to
+* ****`isPermitted(address user)`:**** Returns whether a specific address has permission to perform restricted operations
 
 
 ### Variables:
