@@ -120,8 +120,7 @@
 
 ### Variables: 
 * ****`i_owner`:****  Stores the immutable address of the account that deployed the Shared  Wallet contract. This address serves as the contract administrator and possesses exclusive authority to perform owner-restricted operations, such as granting or revoking withdrawal permissions through the `setPermission()` function. Because the variable is declared as `immutable`, it is assigned only once during contract deployment in the constructor and cannot be modified afterward, ensuring permanent ownership and preventing accidental or malicious ownership changes.
-
-* ****`isPermitted`:****
+* ****`isPermitted`:**** Maintains a registry
 * ****`allowance`:****
 
 
