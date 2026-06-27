@@ -119,7 +119,7 @@
     * Does not modify contract state.
 
 ### Variables: 
-* ****`i_owner`:****  Stores the immutable address of the account that deployed the Shared  Wallet contract. This address serves as the contract administrator and possesses exclusive authority to perform owner-restricted operations, such as granting or revoking withdrawal permissions
+* ****`i_owner`:****  Stores the immutable address of the account that deployed the Shared  Wallet contract. This address serves as the contract administrator and possesses exclusive authority to perform owner-restricted operations, such as granting or revoking withdrawal permissions through the `setPermission()`
 * ****`isPermitted`:****
 * ****`allowance`:****
 
