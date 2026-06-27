@@ -115,6 +115,7 @@
     * Does not modify contract state.
 * ****`i_owner()`:**** Returns the address of the contract owner  established during deployment. The function:
     * Reads the immutable  owner address.
+    * Returns the owner's address.
 
 
 
