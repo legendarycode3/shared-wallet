@@ -113,7 +113,7 @@
     * Returns the remaining withdrawal limit in wei.
     * Allows anyone to view another user's allowance.
     * Does not modify contract state.
-* ****`_owner()`:****
+* ****`i_owner()`:**** Returns the address
 
 
 
