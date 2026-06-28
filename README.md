@@ -3,6 +3,7 @@ A secure shared wallet protocol that enables multiple users to contribute ETH to
 
 
  ## Project Overview
+The `Shared Wallet Smart Contract`
 
 
 ## 📌 Features
