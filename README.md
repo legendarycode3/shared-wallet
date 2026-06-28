@@ -4,7 +4,7 @@ A secure shared wallet protocol that enables multiple users to contribute ETH to
 
  ## Project Overview
 The `Shared Wallet Smart Contract` is a decentralized Ethereum-based treasury that enables multiple users to securely store and manage a common pool of Ether. While anyone can contribute funds to the wallet, only authorized accounts are permitted to withdraw, with each withdrawal constrained by an owner-defined spending allowance. </br>
-The contract implements a role-based access control model where the contract owner is responsible for granting or revoking withdrawal permissions and assigning individual allowances to trusted users.
+The contract implements a role-based access control model where the contract owner is responsible for granting or revoking withdrawal permissions and assigning individual allowances to trusted users. This design allows organizations,
 
 
 ## 📌 Features
