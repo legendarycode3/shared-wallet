@@ -1,5 +1,5 @@
 # Shared Wallet Smart Contract
-A secure shared wallet protocol that enables multiple users to
+A secure shared wallet protocol that enables multiple users to contribute ETH to a common treasury,
 
 
 
