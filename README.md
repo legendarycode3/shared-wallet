@@ -41,11 +41,11 @@
 
 
 ## 📂 Project Structure (Files)
-* ****[Solidity](https://www.soliditylang.org/)****  - The programming language for
 
 
 
 ## 🌐Technology Stack (Technologies Used)
+* ****[Solidity](https://www.soliditylang.org/)****  - The programming language for writing the Smart contracts.
 
 
 
