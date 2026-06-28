@@ -1,6 +1,8 @@
 # Shared Wallet Smart Contract
 A secure shared wallet protocol that enables multiple users to contribute ETH to a common treasury, empowers the owner to grant withdrawal permissions and configurable spending allowances to trusted accounts, and securely manages fund distribution while protecting against unauthorized access, reentrancy attacks, and invalid state transitions.
- 
+
+
+ ## Project Overview
 
 
 ## 📌 Features
