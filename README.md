@@ -1,6 +1,6 @@
 # Shared Wallet Smart Contract
-A secure shared wallet protocol that enables multiple users to contribute ETH to a common treasury,
-
+A secure shared wallet protocol that enables multiple users to contribute ETH to a common treasury, empowers the owner to
+ 
 
 
 ## 📌 Features
