@@ -1,5 +1,6 @@
 # Shared Wallet Smart Contract
-A secure shared
+A secure shared wallet protocol that
+
 
 
 ## 📌 Features
