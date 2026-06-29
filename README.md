@@ -12,6 +12,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 * ****Role-Based Access Control:****  The owner manages authorized users.
 * ****Allowance Management:**** Each permitted account has a configurable withdrawal limit.
 * ****Secure Withdrawals:**** Funds can only be withdrawn by permitted accounts within their assigned allowance.
+* ****Reentrancy Protection:****
 
 
 ## 📌 Features
