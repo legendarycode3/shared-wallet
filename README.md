@@ -77,6 +77,9 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 
 
 
+## Usage
+
+
 ## 📋Contract Details
 
 ### Functions:
