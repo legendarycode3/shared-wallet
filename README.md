@@ -11,7 +11,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 * ****Shared Treasury:**** Anyone can deposit Ether  into the wallet.
 * ****Role-Based Access Control:****  The owner manages authorized users.
 * ****Allowance Management:**** Each permitted account has a configurable withdrawal limit.
-* ****Secure Withdrawals:****
+* ****Secure Withdrawals:**** Funds can only be 
 
 
 ## 📌 Features
