@@ -58,7 +58,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 
 
 ## 📂 Project Structure (Files)
-* ****`SharedWallet.sol`****: The primary smart contract
+* ****`SharedWallet.sol`****: The primary smart contract implementing a secure
 
 
 
