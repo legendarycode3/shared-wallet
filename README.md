@@ -64,6 +64,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
   * `Ownership Management`
       * Assigns the contract deployer as the immutable owner.
       * Provides owner-only administrative controls.
+      * Uses custom modifiers
 
 
 
