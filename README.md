@@ -7,7 +7,7 @@ The `Shared Wallet Smart Contract` is a decentralized Ethereum-based treasury th
 The contract implements a role-based access control model where the contract owner is responsible for granting or revoking withdrawal permissions and assigning individual allowances to trusted users. This design allows organizations, teams, families, DAOs, or collaborative projects to maintain a shared treasury while retaining controlled access to funds. </br>
 To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to protect against reentrancy attacks, uses custom Solidity errors for gas-efficient error handling, validates balances and withdrawal limits before transfers, and emits events for all significant actions including: deposits, withdrawals, permission updates, and allowance changes, providing a transparent on-chain audit trail.  </br>
 
-### Key Features </br>
+ Key Features </br>
 * ****Shared Treasury:**** Anyone can deposit Ether  into the wallet.
 * ****Role-Based Access Control:****  The owner manages authorized users.
 * ****Allowance Management:**** Each permitted account has a configurable withdrawal limit.
