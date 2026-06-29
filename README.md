@@ -80,7 +80,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 ## Usage
 ### Building the Project (Using Remix IDE):
 
-### Building the Project (Using Foundry Development Kit )
+### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 
 
 ## 📋Contract Details
