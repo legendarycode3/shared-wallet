@@ -15,7 +15,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 * ****Reentrancy Protection:**** Prevents malicious recursive withdrawal attacks using OpenZeppelin's `ReentrancyGuard`.
 * ****Event Logging:**** All critical operations are recorded through emitted events for transparency and off-chain monitoring.
 * ****Gas-Efficient Error Handling:****  Utilizes custom errors to reduce deployment and transaction costs.
-* ****Balance Query:****
+* ****Balance Query:**** Provides a view function
 
 
 ## 📌 Features
