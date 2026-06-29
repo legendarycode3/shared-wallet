@@ -73,6 +73,8 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 ## Getting Started
 ### Prerequisites
 
+### Recommendation (For Beginners)
+
 
 
 ## 📋Contract Details
