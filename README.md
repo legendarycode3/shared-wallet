@@ -58,7 +58,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 
 
 ## 📂 Project Structure (Files)
-* ****`SharedWallet.sol`****: The primary smart contract implementing a secure shared wallet that allows
+* ****`SharedWallet.sol`****: The primary smart contract implementing a secure shared wallet that allows multiple users to deposit Ether
 
 
 
