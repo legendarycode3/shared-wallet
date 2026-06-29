@@ -8,7 +8,7 @@ The contract implements a role-based access control model where the contract own
 To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to protect against reentrancy attacks, uses custom Solidity errors for gas-efficient error handling, validates balances and withdrawal limits before transfers, and emits events for all significant actions including: deposits, withdrawals, permission updates, and allowance changes, providing a transparent on-chain audit trail.  </br>
 
 ### Key Features </br>
-* ****Shared Treasury:**** Anyone can deposit Ether
+* ****Shared Treasury:**** Anyone can deposit Ether  into the wallet.
 
 
 ## 📌 Features
