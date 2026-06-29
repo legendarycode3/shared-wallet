@@ -78,6 +78,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 
 
 ## Usage
+### Building the Project (Using Remix IDE):
 
 
 ## 📋Contract Details
