@@ -14,7 +14,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
 * ****Secure Withdrawals:**** Funds can only be withdrawn by permitted accounts within their assigned allowance.
 * ****Reentrancy Protection:**** Prevents malicious recursive withdrawal attacks using OpenZeppelin's `ReentrancyGuard`.
 * ****Event Logging:**** All critical operations are recorded through emitted events for transparency and off-chain monitoring.
-* ****Gas-Efficient Error Handling:**** 
+* ****Gas-Efficient Error Handling:****  Utilizes custom errors to
 * ****Balance Query:****
 
 
