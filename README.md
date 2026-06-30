@@ -71,6 +71,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
       * Prevents unauthorized  withdrawal attempts.
   * `Allowance System`
       * Assigns spending limits  (allowances) to permitted users.
+      * Tracks each user's 
 
 
 
