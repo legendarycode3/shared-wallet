@@ -72,7 +72,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
   * `Allowance System`
       * Assigns spending limits  (allowances) to permitted users.
       * Tracks each user's remaining withdrawal allowance.
-      * Automatically deducts allowance
+      * Automatically deducts allowance after successful withdrawals.
 
 
 
