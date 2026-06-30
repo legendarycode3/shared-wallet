@@ -66,7 +66,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
       * Provides owner-only administrative controls.
       * Uses custom modifiers for secure access control.
   * `Permission Management`
-      * Grants or revokes
+      * Grants or revokes withdrawal permissions for 
 
 
 
