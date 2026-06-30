@@ -70,6 +70,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
       * Maintains a whitelist of authorized wallet participants.
       * Prevents unauthorized  withdrawal attempts.
   * `Allowance System`
+      * Assigns spending limits 
 
 
 
