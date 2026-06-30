@@ -68,7 +68,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
   * `Permission Management`
       * Grants or revokes withdrawal permissions for specific addresses.
       * Maintains a whitelist of authorized wallet participants.
-      * Prevents unauthorized
+      * Prevents unauthorized  withdrawal attempts.
 
 
 
