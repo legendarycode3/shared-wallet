@@ -76,7 +76,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
   * `Ether Deposit System`
       * Accepts Ether through: deposit() function , receive() function, fallback() function.
       * Records every deposit by emitting blockchain events.
-      * Allows anyone to contribute
+      * Allows anyone to contribute  funds to the shared wallet.
 
 
 
