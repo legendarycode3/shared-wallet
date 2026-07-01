@@ -74,7 +74,7 @@ To enhance security, the contract leverages OpenZeppelin's `ReentrancyGuard` to 
       * Tracks each user's remaining withdrawal allowance.
       * Automatically deducts allowance after successful withdrawals.
   * `Ether Deposit System`
-      * Accepts Ether through:
+      * Accepts Ether through: deposit() function , 
 
 
 
